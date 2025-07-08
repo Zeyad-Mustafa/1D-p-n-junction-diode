@@ -10,7 +10,7 @@ This project simulates a one-dimensional p-n junction diode using Python. It cal
 - I-V characteristic plot
 
 ## Requirements
-
+ 
 - Python 3.x
 - NumPy
 - Matplotlib
